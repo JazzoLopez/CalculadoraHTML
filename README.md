@@ -1,12 +1,18 @@
-# CalculadoraHTML
+# Calculadora HTML
 
-<p>Aplicaíon web de una calculadora humilde la cual evalua lo que ingreses como una cadena de texto y devuelve el resultado ademas de limpiar la pantalla</p>
+<p>Aplicación web de una calculadora humilde que evalúa lo que ingreses como una cadena de texto y devuelve el resultado, además de limpiar la pantalla.</p>
 
+## Descripción
 
-## Tecnologias utilizadas
+Esta aplicación, aunque sea básica, nos sirve para aprender sobre JavaScript, además de practicar la responsividad en dispositivos móviles.
 
+## Tecnologías utilizadas
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-blue"/>
+ 
 </p>
+
+
